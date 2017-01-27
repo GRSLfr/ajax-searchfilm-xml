@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CATALOG>
+  <FILM>
+	<En>2006</En>
+    <Premier>La mome</Premier>
+    <Deuxieme>Le prestige</Deuxieme>
+  </FILM>
+  <FILM>
+	<En>2007</En>
+    <Premier>Le scaphandre et le papillon</Premier>
+    <Deuxieme>Ratatouille</Deuxieme>
+	<Troisieme>Into the wild</Troisieme>
+  </FILM>
+  <FILM>
+	<En>2008</En>
+    <Premier>Astérix aux Jeux Olympiques</Premier>
+  </FILM>
+  <FILM>
+	<En>2009</En>
+    <Premier>Avatar</Premier>
+	<Deuxieme>Là-haut</Deuxieme>
+	<Troisieme>Very Bad Trip</Troisieme>
+  </FILM>
+</CATALOG>

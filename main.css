@@ -1,0 +1,55 @@
+@keyframes bg {
+  0% {background:white;}
+  6% {background:silver;}
+  12% {background:gray;}
+  18% {background:black;}
+  24% {background:red;}
+  30% {background:maroon;}
+  36% {background:yellow;}
+  42% {background:olive;}
+  48% {background:lime;}
+  54% {background:green;}
+  60% {background:aqua;}
+  66% {background:teal;}
+  72% {background:blue;}
+  78% {background:navy;}
+  84% {background:fuchsia;}
+  90% {background:purple;}
+  100% {background:white;}
+}
+body, html {
+	margin:0;
+	padding:0;
+	  animation-name: bg ;
+	  animation-duration: 5s;
+	  animation-iteration-count: infinite;
+	color:deeppink;
+	font-size:32px;
+	font-family:sans-serif;
+}
+
+main {
+	padding-top:5vh;
+	width: 960px;
+	margin:auto;
+	text-align:center;
+}
+
+select {
+	width:100%;
+	background:deeppink;
+	color:#000;
+	padding:15px;
+	border:none;
+}
+
+h1 {
+	line-height:1em;
+	margin:0;
+	padding:0;
+	
+}
+
+b {
+	color:#fff;
+}
